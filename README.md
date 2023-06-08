@@ -1,3 +1,9 @@
+EXP NO:2
+
+
+DATE:20-04-23
+
+
 # Fitting Poisson  distribution
 # Aim : 
 
